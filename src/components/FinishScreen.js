@@ -26,7 +26,7 @@ export default function FinishScreen({
         className="btn btn-ui"
         onClick={() => dispatch({ type: "reset" })}
       >
-        Restart Quiz
+        Restart quiz
       </button>
     </>
   );
